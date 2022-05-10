@@ -2,7 +2,7 @@
 #### I am Full Stack Developer
 
 - ✨ Trying to learn and think differently
-- 🔭 I’m currently working on Studying at SE Factory BootCamp 
+- 🔭 I’m currently Studying at SE Factory BootCamp 
 - 🌱 I’m currently learning Laravel and React 
 - Interested in:
 -   Books 📖, Podcasts 🎧, Spots 🤾‍♀️
