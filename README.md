@@ -1,10 +1,6 @@
 # Hi there 👋,My name is Ali El Mowed
 #### I am Full Stack Developer
 
-
-
-Skills: REACT / JS / HTML / CSS
-
 - 🔭 I’m currently working on Studying at SE Factory BootCamp 
 - 🌱 I’m currently learning Laravel and React 
 
