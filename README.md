@@ -3,7 +3,8 @@
 
 - ✨ Trying to learn and think differently
 - 🔭 I’m currently Studying at SE Factory BootCamp 
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel logo" title="Laravel" height="25" /> and <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+- 🌱 I Know <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel logo" title="Laravel" height="25" /> , <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /> , <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs logo" title="Nodejs" height="25" /> , <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express logo" title="Express" height="25" /> , <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-Native logo" title="React-native" height="25" /> and many others.
+
 - Interested in:
 -   Books 📖, Podcasts 🎧, Sports 🤾‍♀️
 
